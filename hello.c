@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("Hello!\n");
+	char* string = "Hello!"; // Your name here. ^_^
+	printf("%s\n", string);
 	return 0;
 }
