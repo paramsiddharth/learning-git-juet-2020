@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	char* string = "Hello"; // Your name here. ^_^
+	char* string = "Vaibhav Singh Rajpoot"; // Your name here. ^_^
 	printf("%s\n", string);
 	return 0;
 }
