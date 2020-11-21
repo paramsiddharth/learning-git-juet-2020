@@ -5,5 +5,4 @@ int main() {
 	printf("%s\n", string);
 	return 0;
 
-	
 }
